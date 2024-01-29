@@ -5,4 +5,6 @@
 
 - 📫 How to reach me **shelomora60@gmail.com**
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yole4&show_icons=true&locale=en" alt="yole4" /></p>
+
 <p style="background-color: black;"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yole4&show_icons=true&locale=en&layout=compact" alt="yole4" /></p>
