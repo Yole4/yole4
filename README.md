@@ -1,4 +1,4 @@
-<div style="background-color:black">
+
   <h1 align="left">💫 About Me</h1>
 <h3 align="left">A passionate frontend/backend developer</h3>
 
@@ -9,4 +9,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yole4&show_icons=true&locale=en" alt="yole4" /></p>
 <h1>Languages</h1>
 <p style="background-color: black;"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yole4&show_icons=true&locale=en&layout=compact" alt="yole4" /></p>
-</div>
