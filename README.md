@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Shelo Paglinawan</h1>
-<h3 align="center">A passionate frontend/backend developer</h3>
+<h1 align="left">💫 About Me</h1>
+<h3 align="left">A passionate frontend/backend developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yole4&label=Profile%20views&color=0e75b6&style=flat" alt="yole4" /> </p>
 
