@@ -4,7 +4,7 @@
 
 <span align="left"> <img src="https://komarev.com/ghpvc/?username=yole4&label=Profile%20views&color=0e75b6&style=flat" alt="yole4" /> </span>
 
-📫 How to Reach me via
+📫 Reach me via
 <p align="left">
 <a href="https://www.linkedin.com/in/paglinawan-shelo-m-9b3261266" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="paglinawan shelo m." height="30" width="40" /></a>
 <a href="https://www.facebook.com/eloy.paglinawan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="shelo mora paglinawan" height="30" width="40" /></a>
