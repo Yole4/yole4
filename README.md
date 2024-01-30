@@ -6,7 +6,7 @@
 
 📫 Reach me via
 <p align="left">
-<a href="https://www.linkedin.com/in/paglinawan-shelo-m-9b3261266" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="paglinawan shelo m." height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/paglinawan-shelo-m-9b3261266" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="paglinawan shelo m." height="30" width="40" /></a>
 <a href="https://www.facebook.com/eloy.paglinawan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="shelo mora paglinawan" height="30" width="40" /></a>
 </p>
 
